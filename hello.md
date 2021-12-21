@@ -31,3 +31,5 @@ git remote -v                   查看别名
 git remote add 别名 远程库地址链接           添加远程库地址并起别名
 
 git push 远程库别名 分支名                          向远程库推送分支
+
+在网页Github上的更改为了测试 拉取远程库来更新本地库
