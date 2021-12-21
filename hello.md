@@ -1,5 +1,5 @@
-hello git
+git status        查看git工作区
 
-first change
+git add            添加至暂存区
 
-second change
+git commit     提交至本地库
