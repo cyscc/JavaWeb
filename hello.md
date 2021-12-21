@@ -22,5 +22,10 @@ git merge 分支名            合并分支到当前分支上
 
 master 分支上修改的内容
 
-
 hot-fix 分支合并冲突测试
+
+
+
+git remote -v                   查看别名
+
+git remote add 别名 远程库地址链接           添加远程库地址并起别名
