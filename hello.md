@@ -29,3 +29,5 @@ hot-fix 分支合并冲突测试
 git remote -v                   查看别名
 
 git remote add 别名 远程库地址链接           添加远程库地址并起别名
+
+git push 远程库别名 分支名                          向远程库推送分支
