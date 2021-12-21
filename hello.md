@@ -9,3 +9,11 @@ git log             查看版本详细信息
 git reflog        查看版本信息
 
 git reset --hard 版本号               版本穿梭
+
+
+
+git branch -v          查看分支
+
+git branch 分支名          创建分支
+
+git checkout 分支名       切换分支
