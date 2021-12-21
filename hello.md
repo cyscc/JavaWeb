@@ -17,3 +17,7 @@ git branch -v          查看分支
 git branch 分支名          创建分支
 
 git checkout 分支名       切换分支
+
+
+
+hot-fix 分支合并冲突测试
