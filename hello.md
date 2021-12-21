@@ -20,6 +20,7 @@ git checkout 分支名       切换分支
 
 git merge 分支名            合并分支到当前分支上
 
-
-
 master 分支上修改的内容
+
+
+hot-fix 分支合并冲突测试
